@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I'm a undergraduate who likes to code and tries to become better as the day progresses,
-And I’m currently working on a project called "Greekify"
+🔭 I'm a undergraduate who likes to code and tries to become better as the day progresses
 
 
 
